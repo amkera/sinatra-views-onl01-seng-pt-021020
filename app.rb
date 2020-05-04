@@ -7,3 +7,5 @@ class App < Sinatra::Base
 	end
 	
 end
+
+#This is our controller 
